@@ -1,0 +1,56 @@
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.572: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.573: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.605: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.605: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.605: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.667: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.667: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.667: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.667: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.668: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.669: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.669: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:39.670: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.682: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.683: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.684: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.684: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.684: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.685: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.685: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.685: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.685: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.685: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.685: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.685: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:806014): Gtk-WARNING **: 17:39:41.685: Unable to locate theme engine in module_path: "murrine",
+X connection to :0 broken (explicit kill or server shutdown).
+Gdk-Message: 17:42:12.618: termite: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+
+Invalid MIT-MAGIC-COOKIE-1 key
