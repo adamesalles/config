@@ -1547,3 +1547,33 @@ ImportError: cannot import name 'Settings' from 'deemix.app.settings' (/usr/lib/
 (firefox:11662): GLib-GObject-WARNING **: 15:53:10.507: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fccbf2e90' of type 'MaiAtkType13b'
 
 (firefox:11662): GLib-GObject-WARNING **: 15:57:44.197: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8ff0edf890' of type 'MaiAtkType13b'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:15:10.839: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9007f519b0' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:15:10.839: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9007f51290' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:15:11.160: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f900b3712f0' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:16:02.682: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7be47d0' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:16:02.682: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7be4230' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:16:02.966: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fe8376f50' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:16:26.959: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd1319a10' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:16:26.959: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd1319830' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:16:27.249: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fe844fe30' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:17:19.636: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd75761d0' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:17:19.636: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7576530' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:17:19.943: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fafa29a70' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:18:55.317: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcfd15d10' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:18:55.318: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd030e3b0' of type 'MaiAtkType139'
+
+(firefox:11662): GLib-GObject-WARNING **: 16:18:55.636: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7d5fa70' of type 'MaiAtkType139'
