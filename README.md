@@ -67,7 +67,7 @@ config config --local status.showUntrackedFiles no
 ```
 
 This bash script may run:
-```
+```bash
 git clone --bare https://bitbucket.org/durdn/cfg.git $HOME/.cfg
 function config {
    /usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME $@

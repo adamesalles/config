@@ -1,1579 +1,230 @@
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.778: Unable to locate theme engine in module_path: "adwaita",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.291: Unable to locate theme engine in module_path: "adwaita",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.778: Unable to locate theme engine in module_path: "adwaita",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.292: Unable to locate theme engine in module_path: "adwaita",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.789: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.313: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.789: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.313: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.789: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.313: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.862: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.364: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.862: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.364: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.862: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.364: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.862: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.364: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.863: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.365: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.863: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.365: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.863: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.366: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:02.865: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:33.408: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.275: Unable to locate theme engine in module_path: "adwaita",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.272: Unable to locate theme engine in module_path: "adwaita",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.275: Unable to locate theme engine in module_path: "adwaita",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.272: Unable to locate theme engine in module_path: "adwaita",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.277: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.274: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.277: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.274: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.277: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.274: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.277: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.275: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.278: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.275: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.278: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.275: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.278: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.275: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.278: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.275: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.278: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.275: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.278: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.275: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:497): Gtk-WARNING **: 17:44:05.278: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:473): Gtk-WARNING **: 17:01:35.275: Unable to locate theme engine in module_path: "murrine",
+ALSA lib pcm.c:2660:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2660:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2660:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm_route.c:877:(find_matching_chmap) Found no matching channel map
+ALSA lib pcm_route.c:877:(find_matching_chmap) Found no matching channel map
+ALSA lib pcm_route.c:877:(find_matching_chmap) Found no matching channel map
+ALSA lib pcm_route.c:877:(find_matching_chmap) Found no matching channel map
+connect(2) call to /dev/shm/jack-1000/default/jack_0 failed (err=Arquivo ou diretório inexistente)
+attempt to connect to server failed
+connect(2) call to /dev/shm/jack-1000/default/jack_0 failed (err=Arquivo ou diretório inexistente)
+attempt to connect to server failed
+ALSA lib pcm_oss.c:377:(_snd_pcm_oss_open) Unknown field port
+ALSA lib pcm_oss.c:377:(_snd_pcm_oss_open) Unknown field port
+ALSA lib pcm_usb_stream.c:486:(_snd_pcm_usb_stream_open) Invalid type for card
+ALSA lib pcm_usb_stream.c:486:(_snd_pcm_usb_stream_open) Invalid type for card
+connect(2) call to /dev/shm/jack-1000/default/jack_0 failed (err=Arquivo ou diretório inexistente)
+attempt to connect to server failed
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.109: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
+(xournalpp:1104): Gtk-WARNING **: 17:02:16.906: Theme parsing error: <data>:1:22: Junk at end of value for font-family
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.110: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
+(firefox:530): Gtk-CRITICAL **: 17:02:33.241: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.114: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+(firefox:530): Gtk-CRITICAL **: 17:02:33.313: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.114: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+(firefox:530): GLib-GObject-WARNING **: 17:02:36.184: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fd3f101e4d0' of type 'MaiAtkType139'
+** Message: 17:03:18.149: lastOpenPath set
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.114: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+(firefox:530): GLib-GObject-WARNING **: 17:03:57.086: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fd42f046c50' of type 'MaiAtkType21'
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.116: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+(firefox:530): GLib-GObject-WARNING **: 17:04:18.390: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fd3f0174110' of type 'MaiAtkType139'
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.116: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+** (xournalpp:1104): WARNING **: 17:07:29.734: Input for the same device started twice!
+** Message: 17:08:16.805: Info: autosave document...
+** Message: 17:08:16.858: Autosaving to /home/adame/.xournalpp/autosave/1104.autosave.xopp
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.116: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+** (xournalpp:1104): WARNING **: 17:08:41.579: DocumentView::drawStroke empty stroke...
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.116: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+** (xournalpp:1104): WARNING **: 17:08:44.471: DocumentView::drawStroke empty stroke...
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.117: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+** (xournalpp:1104): WARNING **: 17:08:44.489: DocumentView::drawStroke empty stroke...
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.117: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+** (xournalpp:1104): WARNING **: 17:08:44.507: DocumentView::drawStroke empty stroke...
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.117: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+** (xournalpp:1104): WARNING **: 17:08:44.526: DocumentView::drawStroke empty stroke...
 
-(pcmanfm:11754): Gtk-WARNING **: 18:50:36.118: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+** (xournalpp:1104): WARNING **: 17:08:44.543: DocumentView::drawStroke empty stroke...
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+** (xournalpp:1104): WARNING **: 17:08:44.559: DocumentView::drawStroke empty stroke...
 
-
-(firefox:11662): GLib-GObject-WARNING **: 18:51:17.089: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9023ae28f0' of type 'MaiAtkType139'
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): GLib-GObject-WARNING **: 18:57:13.279: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9024cb8770' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:00:59.219: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9007f511d0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:01:38.967: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9027d8df50' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:01:55.694: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f902b3acb30' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:02:33.446: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f902da8b1d0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:07:53.857: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8feab72590' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:08:04.508: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fea9f9230' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:08:05.597: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fef9cb230' of type 'MaiAtkType139'
-(node:160967) DeprecationWarning: file property is deprecated and will be removed in v5.
-(node:160967) DeprecationWarning: file property is deprecated and will be removed in v5.
-(node:160967) DeprecationWarning: init() is deprecated and will be removed in v5.
-(node:160967) DeprecationWarning: init() is deprecated and will be removed in v5.
-09:10:20.507 › Error while installing Hunspell default dictionary. Mark Text resources are corrupted!
-[161020:0907/091022.026304:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-(node:161054) Electron: Loading non context-aware native modules in the renderer process is deprecated and will stop working at some point in the future, please see https://github.com/electron/electron/issues/18397 for more information
-(node:161054) Electron: Loading non context-aware native modules in the renderer process is deprecated and will stop working at some point in the future, please see https://github.com/electron/electron/issues/18397 for more information
-(node:161054) Electron: Loading non context-aware native modules in the renderer process is deprecated and will stop working at some point in the future, please see https://github.com/electron/electron/issues/18397 for more information
-(node:161054) Electron: Loading non context-aware native modules in the renderer process is deprecated and will stop working at some point in the future, please see https://github.com/electron/electron/issues/18397 for more information
-(node:161054) DeprecationWarning: file property is deprecated and will be removed in v5.
-(node:161054) DeprecationWarning: file property is deprecated and will be removed in v5.
-(node:161054) DeprecationWarning: init() is deprecated and will be removed in v5.
-(node:161054) DeprecationWarning: init() is deprecated and will be removed in v5.
-[161020:0907/091029.747082:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/091100.083170:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-
-(firefox:11662): GLib-GObject-WARNING **: 09:19:43.507: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9022746dd0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:20:01.465: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f902538ba70' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:21:00.306: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9023ac9dd0' of type 'MaiAtkType139'
-[161020:0907/092524.654926:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[ 07/09/2020 09:25:24.675 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x0080cc75.
-[ 07/09/2020 09:25:24.675 paint_one ERROR ] Failed to bind texture for window 0x0340002b.
-[ 07/09/2020 09:25:24.675 paint_one ERROR ] Window 0x0340002b is missing painting data.
-[161020:0907/092701.115803:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/092704.572627:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-09:33:32.505 › TypeError: Cannot read property 'parent' of null
-    at ea.insertBefore (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/contentState/index.js:557:31)
-    at ea.backspaceHandler (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/contentState/backspaceCtrl.js:225:14)
-    at HTMLDivElement.<anonymous> (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/eventHandler/keyboard.js:168:24)
-09:33:41.914 › TypeError: Cannot read property 'parent' of null
-    at ea.insertBefore (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/contentState/index.js:557:31)
-    at ea.backspaceHandler (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/contentState/backspaceCtrl.js:225:14)
-    at HTMLDivElement.<anonymous> (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/eventHandler/keyboard.js:168:24)
-09:33:41.954 › TypeError: Cannot read property 'parent' of null
-    at ea.insertBefore (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/contentState/index.js:557:31)
-    at ea.backspaceHandler (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/contentState/backspaceCtrl.js:225:14)
-    at HTMLDivElement.<anonymous> (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/eventHandler/keyboard.js:168:24)
-09:33:41.996 › TypeError: Cannot read property 'parent' of null
-    at ea.insertBefore (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/contentState/index.js:557:31)
-    at ea.backspaceHandler (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/contentState/backspaceCtrl.js:225:14)
-    at HTMLDivElement.<anonymous> (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/eventHandler/keyboard.js:168:24)
-[161020:0907/093417.501253:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093418.799679:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093447.657617:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093448.615672:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.769: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.769: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.772: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.772: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.772: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.773: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.773: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.773: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.773: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.773: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.773: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.774: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:166049): Gtk-WARNING **: 09:37:45.774: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-xoj-preview-extractor: no preview and page found, maybe an invalid file?
-! SyncTeX Error : No file?
-Error loading document: Não há suporte ao tipo de arquivo documento em texto simples (text/plain)
-xoj-preview-extractor: no preview and page found, maybe an invalid file?
-! SyncTeX Error : No file?
-[161020:0907/093854.409068:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093859.182478:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-! SyncTeX Error : No file?
-[161020:0907/093932.088789:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093934.757243:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093942.024171:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093942.793623:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093942.829248:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093943.610773:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093943.958406:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093944.031581:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093944.705551:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093944.873399:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093948.511405:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093949.832627:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093952.304335:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/093953.429491:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/094257.106517:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/094258.585433:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-! SyncTeX Error : No file?
-09:43:33.784 › TypeError: Cannot read property '0' of undefined
-    at dr.normalizeTable (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/utils/exportMarkdown.js:316:73)
-    at dr.translateBlocks2Markdown (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/utils/exportMarkdown.js:72:32)
-    at dr.generate (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/utils/exportMarkdown.js:33:17)
-    at Qa.getMarkdown (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/index.js:131:86)
-    at Qa.dispatchChange (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/index.js:107:43)
-    at HTMLDivElement.<anonymous> (file:///usr/lib/marktext/app.asar/dist/electron/webpack:/src/muya/lib/eventHandler/keyboard.js:176:23)
-[161020:0907/094347.683114:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/094447.792450:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/094449.233481:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-! SyncTeX Error : No file?
-[161020:0907/094605.957316:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[161020:0907/094607.259367:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-! SyncTeX Error : No file?
-
-(firefox:11662): GLib-GObject-WARNING **: 09:46:41.726: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd76a6290' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:46:42.565: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd793c7d0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:46:49.361: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7a924d0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:46:49.361: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd793c1d0' of type 'MaiAtkType139'
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-error: Could not find thumbnail in zip file
-
-kpathsea: Running mktexpk --mfmode / --bdpi 600 --mag 1+120/600 --dpi 720 ptmri8r
-mktexpk: Running gsftopk ptmri8r 720
-gsftopk(k) version 1.19.2/952
-[1] [2] [3] [4] [5] [6] [7] [8] [9] [11] [12] [14] [15] [16] [17] [30] [31]
-[32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47]
-[48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
-[64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79]
-[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95]
-[96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109]
-[110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122]
-[123] [124] [125] [126] [130] [131] [132] [133] [134] [135] [136] [137] [138]
-[139] [140] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [159]
-[161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173]
-[174] [175] [176] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186]
-[187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199]
-[200] [201] [202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212]
-[213] [214] [215] [216] [217] [218] [219] [220] [221] [222] [223] [224] [225]
-[226] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237] [238]
-[239] [240] [241] [242] [243] [244] [245] [246] [247] [248] [249] [250] [251]
-[252] [253] [254] [255]
-mktexpk: /home/adame/.texlive/texmf-var/fonts/pk/modeless/adobe/times/ptmri8r.720pk: successfully generated.
-
-(firefox:11662): GLib-GObject-WARNING **: 09:55:00.022: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd76a61d0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:55:01.493: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7537830' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:55:16.043: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fccaa8410' of type 'MaiAtkType139'
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad0030c800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad0030c800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 10:00:09.440: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f9021bbcd70' of type 'MaiAtkType25'
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad01706000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad01706000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad01706000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad01706000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad01706000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad01706000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad01706000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad01706000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad0ee3fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad0ee3fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad0ee3fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad0ee3fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.296: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.296: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.298: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.298: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.298: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.298: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.298: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.298: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.298: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.299: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.299: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.299: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:179723): Gtk-WARNING **: 10:27:46.299: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-! SyncTeX Error : No file?
-error: Could not find thumbnail in zip file
-error: Estrutura de arquivo zip quebrada
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: The metadata does not have a thumbnail property
-error: Could not find thumbnail in zip file
-xoj-preview-extractor: no preview and page found, maybe an invalid file?
-error: The metadata does not have a thumbnail property
-error: Could not find thumbnail in zip file
-error: Could not find thumbnail in zip file
-error: The metadata does not have a thumbnail property
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.248: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.249: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.251: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.252: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.252: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.252: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.252: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.252: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.253: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.253: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.253: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.253: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:195968): Gtk-WARNING **: 12:04:33.253: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(firefox:11662): GLib-GObject-WARNING **: 12:31:54.286: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcc1d5170' of type 'MaiAtkType139'
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facf0bee000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facf0bee000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facf0bee000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facf0bee000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 15:39:50.168: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fc0bdead0' of type 'MaiAtkType25'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:41:53.916: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fc01da470' of type 'MaiAtkType25'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:42:10.265: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fc01f36b0' of type 'MaiAtkType25'
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad0178ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad0178ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad0178ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7fad0178ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 15:43:49.814: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc0e6f1d0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:45:00.765: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc01e12f0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:45:27.470: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fbff13650' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:45:27.470: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fbff13b30' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:45:27.470: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fbff13890' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:09.065: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc04d19b0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:19.606: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcca28590' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:19.606: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcc8ec6b0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:19.606: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc0ea2470' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:26.838: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc04545f0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:26.838: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc0441fb0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:26.838: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc0441cb0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:45.381: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc09c3d70' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:45.381: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc09c3ad0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:45.381: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc01f30b0' of type 'MaiAtkType13b'
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-Rofi is unsure what to show.
-Please specify the mode you want to show.
-
-    rofi -show {mode}
-
-The following modi are enabled:
- * window
- * run
- * ssh
-
-The following can be enabled:
- * windowcd
- * drun
- * combi
- * keys
-
-To activate a mode, add it to the list of modi in the modi setting.
-
-(firefox:11662): GLib-GObject-WARNING **: 16:08:57.128: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f902f6294d0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:10:05.776: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f903034dc50' of type 'MaiAtkType139'
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): GLib-GObject-WARNING **: 16:19:03.852: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcec46e90' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:19:03.852: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcec46ef0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:19:04.207: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd779bdd0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:27:19.797: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fe96a59b0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:32:16.394: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f900b456e90' of type 'MaiAtkType21'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:38:30.062: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fb0adbe30' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:38:30.204: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fb0db2b90' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:38:50.552: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fa891a530' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:38:51.615: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fa891aa10' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:38:51.627: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8faf6ab830' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:38:51.691: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fafa29cb0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:38:52.219: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fafa66170' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:39:41.435: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fafa297d0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:41:02.019: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8faf99da10' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:46:01.858: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc0afdbf0' of type 'MaiAtkType139'
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): GLib-GObject-WARNING **: 16:47:46.777: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fe84066b0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:48:32.110: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8ff0fa9dd0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:57:13.505: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9027737ad0' of type 'MaiAtkType21'
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-
-(firefox:11662): GLib-GObject-WARNING **: 16:58:22.401: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fedc6e2f0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:03:47.792: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fe8e908f0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:03:48.494: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fea133110' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:03:51.014: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f90372ed050' of type 'MaiAtkType139'
-
-(evince:194588): Gtk-WARNING **: 17:04:52.677: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(firefox:11662): GLib-GObject-WARNING **: 17:10:59.090: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fce9866b0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:11:00.508: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcf992c50' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:11:21.953: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fbff43a10' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:11:23.570: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcf866e90' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:11:41.319: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fa891a5f0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:11:43.264: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fbfe3de30' of type 'MaiAtkType139'
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): GLib-GObject-WARNING **: 17:13:20.584: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fafa710b0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:13:21.614: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcbadba10' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:14:13.367: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8faf99def0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 17:14:14.735: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fbff0a4d0' of type 'MaiAtkType139'
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): Gtk-CRITICAL **: 17:17:49.049: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 17:17:49.101: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): GLib-GObject-WARNING **: 19:02:44.447: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7da2530' of type 'MaiAtkType139'
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e6a446800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 19:03:38.364: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f902b3596b0' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:03:38.370: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f902b3596b0' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:05:34.975: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f902b35aef0' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:05:34.975: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f902b35aef0' of type 'MaiAtkType27'
-[ 07/09/2020 19:09:03.677 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00847ce9.
-[ 07/09/2020 19:09:03.677 paint_one ERROR ] Failed to bind texture for window 0x00e000fe.
-[ 07/09/2020 19:09:03.677 paint_one ERROR ] Window 0x00e000fe is missing painting data.
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e69e7a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e69e7a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e69e7a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e69e7a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e69e7a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e69e7a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e69e7a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e69e7a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): GLib-GObject-WARNING **: 19:11:38.542: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fbff0add0' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:11:38.542: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fbff0add0' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:11:46.101: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fbff0add0' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:11:46.102: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fbff0add0' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:12:25.288: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fbff0add0' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:12:25.288: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fbff0add0' of type 'MaiAtkType27'
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e665f3000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 19:13:15.788: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fafa29770' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:13:15.788: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fafa29770' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:13:39.367: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fafa29770' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:13:39.367: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fafa29770' of type 'MaiAtkType27'
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e666d3400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 19:13:52.273: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fa4541e30' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:13:52.273: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fa4541e30' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:14:25.472: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fa4541e30' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:14:25.472: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fa4541e30' of type 'MaiAtkType27'
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e62b45400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e62b45400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e62b45400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e62b45400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e62b45400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f82400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65b40c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(evince:194588): Gtk-WARNING **: 19:49:16.191: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:49:16.191: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:49:23.259: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:49:23.260: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:49:23.274: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:49:23.285: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:49:35.012: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:49:35.024: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:51:19.403: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:51:19.403: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:51:19.415: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:51:19.428: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:51:19.442: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 19:51:24.771: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e8719a800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e8719a800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e8719a800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e8719a800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e8719a800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e8719a800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e8719a800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 19:54:45.269: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fa5f50770' of type 'MaiAtkType25'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:54:45.269: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fa5f50770' of type 'MaiAtkType25'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:56:18.998: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fc0c10a70' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:56:18.998: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fc0c10a70' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:56:25.549: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fc0c10a70' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:56:25.550: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fc0c10a70' of type 'MaiAtkType27'
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12136, MediaDecoderStateMachine #1] WARNING: Decoder=7f2e65f84c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 19:56:52.382: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fcbdee290' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:56:52.382: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fcbdee290' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:56:54.113: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fcbdee290' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:56:54.113: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fcbdee290' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:56:57.197: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fcbdee290' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 19:56:57.197: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fcbdee290' of type 'MaiAtkType27'
-
-(firefox:11662): Gtk-CRITICAL **: 19:57:32.525: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 19:57:32.557: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): GLib-GObject-WARNING **: 23:19:07.186: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fb0db41d0' of type 'MaiAtkType25'
-
-(firefox:11662): GLib-GObject-WARNING **: 23:19:07.187: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fb0db41d0' of type 'MaiAtkType25'
-
-(firefox:11662): GLib-GObject-WARNING **: 23:19:31.076: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fb0db41d0' of type 'MaiAtkType25'
-
-(firefox:11662): GLib-GObject-WARNING **: 23:19:31.076: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fb0db41d0' of type 'MaiAtkType25'
-
-(firefox:11662): GLib-GObject-WARNING **: 23:21:51.314: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fb0db41d0' of type 'MaiAtkType25'
-
-(firefox:11662): GLib-GObject-WARNING **: 23:21:51.314: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fb0db41d0' of type 'MaiAtkType25'
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facea8a4000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facea8a4000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.660: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.660: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.663: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.663: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.663: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.668: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.668: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.668: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.668: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.669: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.669: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.669: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:437778): Gtk-WARNING **: 09:43:38.669: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-kpathsea: Running mktexpk --mfmode / --bdpi 600 --mag 0+576/600 --dpi 576 ptmr8r
-mktexpk: Running gsftopk ptmr8r 576
-gsftopk(k) version 1.19.2/952
-[1] [2] [3] [4] [5] [6] [7] [8] [9] [11] [12] [14] [15] [16] [17] [30] [31]
-[32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47]
-[48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
-[64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79]
-[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95]
-[96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109]
-[110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122]
-[123] [124] [125] [126] [130] [131] [132] [133] [134] [135] [136] [137] [138]
-[139] [140] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [159]
-[161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173]
-[174] [175] [176] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186]
-[187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199]
-[200] [201] [202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212]
-[213] [214] [215] [216] [217] [218] [219] [220] [221] [222] [223] [224] [225]
-[226] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237] [238]
-[239] [240] [241] [242] [243] [244] [245] [246] [247] [248] [249] [250] [251]
-[252] [253] [254] [255]
-mktexpk: /home/adame/.texlive/texmf-var/fonts/pk/modeless/adobe/times/ptmr8r.576pk: successfully generated.
-cat: erro de escrita: Pipe quebrado
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-
-(pcmanfm:179723): GLib-CRITICAL **: 09:46:35.903: Source ID 48 was not found when attempting to remove it
-xoj-preview-extractor: no preview and page found, maybe an invalid file?
-! SyncTeX Error : No file?
-Error loading document: Não há suporte ao tipo de arquivo documento em texto simples (text/plain)
-xoj-preview-extractor: no preview and page found, maybe an invalid file?
-error: Could not find thumbnail in zip file
-
-(pcmanfm:179723): GLib-CRITICAL **: 09:47:14.563: Source ID 136042 was not found when attempting to remove it
-! SyncTeX Error : No file?
-
-(pcmanfm:179723): GLib-CRITICAL **: 09:47:22.542: Source ID 153573 was not found when attempting to remove it
-xoj-preview-extractor: no preview and page found, maybe an invalid file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-xoj-preview-extractor: no preview and page found, maybe an invalid file?
-! SyncTeX Error : No file?
-! SyncTeX Error : No file?
-Error loading document: Não há suporte ao tipo de arquivo documento em texto simples (text/plain)
-xoj-preview-extractor: no preview and page found, maybe an invalid file?
-! SyncTeX Error : No file?
-error: Could not find thumbnail in zip file
-[ 08/09/2020 09:48:24.529 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x0088ac76.
-[ 08/09/2020 09:48:24.529 paint_one ERROR ] Failed to bind texture for window 0x01e0c097.
-[ 08/09/2020 09:48:24.529 paint_one ERROR ] Window 0x01e0c097 is missing painting data.
-(node:438981) DeprecationWarning: file property is deprecated and will be removed in v5.
-(node:438981) DeprecationWarning: file property is deprecated and will be removed in v5.
-(node:438981) DeprecationWarning: init() is deprecated and will be removed in v5.
-(node:438981) DeprecationWarning: init() is deprecated and will be removed in v5.
-09:48:40.178 › Error while installing Hunspell default dictionary. Mark Text resources are corrupted!
-[439028:0908/094841.598345:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-(node:439049) Electron: Loading non context-aware native modules in the renderer process is deprecated and will stop working at some point in the future, please see https://github.com/electron/electron/issues/18397 for more information
-(node:439049) Electron: Loading non context-aware native modules in the renderer process is deprecated and will stop working at some point in the future, please see https://github.com/electron/electron/issues/18397 for more information
-(node:439049) Electron: Loading non context-aware native modules in the renderer process is deprecated and will stop working at some point in the future, please see https://github.com/electron/electron/issues/18397 for more information
-(node:439049) Electron: Loading non context-aware native modules in the renderer process is deprecated and will stop working at some point in the future, please see https://github.com/electron/electron/issues/18397 for more information
-(node:439049) DeprecationWarning: file property is deprecated and will be removed in v5.
-(node:439049) DeprecationWarning: file property is deprecated and will be removed in v5.
-(node:439049) DeprecationWarning: init() is deprecated and will be removed in v5.
-(node:439049) DeprecationWarning: init() is deprecated and will be removed in v5.
-
-(pcmanfm:179723): GLib-CRITICAL **: 09:49:14.688: Source ID 153729 was not found when attempting to remove it
-[ 08/09/2020 09:49:16.470 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x0088ae6e.
-[ 08/09/2020 09:49:16.470 paint_one ERROR ] Failed to bind texture for window 0x01e0cf4b.
-[ 08/09/2020 09:49:16.470 paint_one ERROR ] Window 0x01e0cf4b is missing painting data.
-! SyncTeX Error : No file?
-xoj-preview-extractor: no preview and page found, maybe an invalid file?
-xoj-preview-extractor: no preview and page found, maybe an invalid file?
-
-(firefox:11662): GLib-GObject-WARNING **: 09:56:24.092: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fed8e7fb0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:56:24.092: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fed8f68f0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:56:24.353: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fedc296b0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 09:56:51.624: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcf9398f0' of type 'MaiAtkType21'
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): GLib-GObject-WARNING **: 10:26:05.962: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8ff05076b0' of type 'MaiAtkType25'
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): GLib-GObject-WARNING **: 10:59:19.988: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fedc3f230' of type 'MaiAtkType139'
-[Child 295553, MediaDecoderStateMachine #1] WARNING: Decoder=7f7e54a77800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #1] WARNING: Decoder=7f7e54a77800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #1] WARNING: Decoder=7f7e54a77800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #1] WARNING: Decoder=7f7e54a77800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #1] WARNING: Decoder=7f7e54a77800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #1] WARNING: Decoder=7f7e54a77800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #1] WARNING: Decoder=7f7e54a77800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #1] WARNING: Decoder=7f7e54a77800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-the command failed to run: Falha ao executar processo filho “cd” (Arquivo ou diretório inexistente)
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf2ded400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(evince:194588): Gtk-WARNING **: 12:56:01.733: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.734: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.758: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.759: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.770: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.783: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.796: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.809: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.821: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.835: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.848: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:01.861: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:02.143: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:02.157: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:02.174: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:02.190: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:02.207: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 12:56:02.224: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(firefox:11662): GLib-GObject-WARNING **: 12:59:08.061: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fc0c7a4d0' of type 'MaiAtkType139'
-Traceback (most recent call last):
-  File "/usr/bin/deemix-pyweb", line 9, in <module>
-    from server import run_server
-  File "/usr/lib/deemix-pyweb/server.py", line 12, in <module>
-    from app import deemix
-  File "/usr/lib/deemix-pyweb/app.py", line 3, in <module>
-    from deemix.app.settings import Settings
-ImportError: cannot import name 'Settings' from 'deemix.app.settings' (/usr/lib/python3.8/site-packages/deemix/app/settings.py)
-
-(firefox:11662): GLib-GObject-WARNING **: 13:07:36.787: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9012391050' of type 'MaiAtkType1'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:07:36.788: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f900b2cc950' of type 'MaiAtkType21'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:07:40.864: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fecee1a70' of type 'MaiAtkType1'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:07:42.651: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f90071fe410' of type 'MaiAtkType1'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:07:42.684: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fef20c830' of type 'MaiAtkType1'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:08:11.499: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f90071fee30' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:08:11.499: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f90071feef0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:08:11.762: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9007ed9c50' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:13:43.613: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fedc6e5f0' of type 'MaiAtkType139'
-[Child 295553, MediaDecoderStateMachine #2] WARNING: Decoder=7f7cccf7b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #2] WARNING: Decoder=7f7cccf7b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #2] WARNING: Decoder=7f7cccf7b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #2] WARNING: Decoder=7f7cccf7b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 295553, MediaDecoderStateMachine #2] WARNING: Decoder=7f7cccf7b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 13:18:13.386: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8feb0d1c50' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:22:34.112: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fbfec6f50' of type 'MaiAtkType25'
-
-(firefox:11662): Gtk-CRITICAL **: 13:34:15.259: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:34:15.274: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:34:38.198: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:34:38.238: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:34:49.896: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:34:49.915: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:35:15.478: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:35:15.516: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:35:24.207: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:35:24.238: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:35:45.090: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:35:45.114: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:36:20.485: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:36:20.501: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:36:43.601: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:36:43.617: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:37:57.130: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:37:57.164: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facef5f0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf5522800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf5522800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf5522800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf5522800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #4] WARNING: Decoder=7facf5522800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 13:39:06.525: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fd7ead4d0' of type 'MaiAtkType25'
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facf0cd2c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facf0cd2c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facf0cd2c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facf0cd2c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facf0cd2c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7facf30c1400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 13:44:29.633: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9007729a70' of type 'MaiAtkType139'
-
-(firefox:11662): Gtk-CRITICAL **: 13:50:25.435: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:50:25.451: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): GLib-GObject-WARNING **: 13:51:34.699: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fce79bef0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:51:36.799: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7d5fdd0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:51:38.081: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcf78c830' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:51:39.330: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd766e4d0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:51:49.494: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fa4528230' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 13:51:49.494: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fa4525770' of type 'MaiAtkType13b'
-
-(firefox:11662): Gtk-CRITICAL **: 13:52:20.706: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:52:20.727: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:52:51.593: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:52:51.607: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:52:57.135: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:52:57.160: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:53:19.221: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:53:19.243: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:53:24.347: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:53:24.364: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:53:35.788: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:53:35.804: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:54:01.471: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 13:54:01.487: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7faceff13c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7faceff13c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7faceff13c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-[Child 12078, MediaDecoderStateMachine #1] WARNING: Decoder=7faceff13c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-80.0.1/dom/media/MediaDecoderStateMachine.cpp, line 3470
-
-(firefox:11662): GLib-GObject-WARNING **: 14:26:59.834: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fa4525ef0' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 14:27:01.693: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fa4ffe8f0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 14:32:21.437: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fa45f4fb0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 14:32:21.437: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fa45287d0' of type 'MaiAtkType13b'
-
-(evince:194588): Gtk-WARNING **: 14:35:48.031: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:35:48.033: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:35:48.051: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:35:48.067: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.513: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.529: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.546: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.563: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.580: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.696: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.713: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.730: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.747: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.763: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.780: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.797: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:36:02.822: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(firefox:11662): Gtk-CRITICAL **: 14:36:37.715: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:36:37.731: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-(firefox:11662): Gtk-CRITICAL **: 14:37:23.136: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:37:23.159: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:37:45.439: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:37:45.460: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:38:35.131: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:38:35.160: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:38:45.887: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:38:45.905: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:38:55.847: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:38:55.863: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:39:22.945: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:39:22.980: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:39:41.687: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): Gtk-CRITICAL **: 14:39:41.707: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(firefox:11662): GLib-GObject-WARNING **: 14:40:23.589: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fb67b8590' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 14:40:23.589: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fb67b8590' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 14:40:43.363: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fb67b8590' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 14:40:43.363: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fb67b8590' of type 'MaiAtkType27'
-
-(evince:194588): Gtk-WARNING **: 14:43:44.973: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:43:44.974: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:43:44.986: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:43:45.367: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(evince:194588): Gtk-WARNING **: 14:43:45.393: Failed to set text '/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1' from markup due to error parsing markup: Erro na linha 1 caractere 70: Texto do nome codificado em UTF-8 inválido — “/home/adame/Documentos/Provas/Provas Ci\xeancias de Dados 2020.1” não válido
-
-(firefox:11662): GLib-GObject-WARNING **: 14:48:34.000: ../glib/gobject/gsignal.c:3599: signal name 'text_selection_changed' is invalid for instance '0x7f8fb0aa2c50' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 14:48:34.000: ../glib/gobject/gsignal.c:3599: signal name 'text_caret_moved' is invalid for instance '0x7f8fb0aa2c50' of type 'MaiAtkType27'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:05:20.025: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9023adb590' of type 'MaiAtkType13b'
-
-(termite:501221): Gdk-WARNING **: 15:09:57.436: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
-
-(termite:501221): Gdk-WARNING **: 15:09:57.436: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
-
-(termite:501221): Gdk-WARNING **: 15:09:57.436: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
-
-(termite:501221): Gdk-WARNING **: 15:09:57.436: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
-
-(termite:501221): Gdk-WARNING **: 15:09:57.436: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
-
-(termite:501221): Gdk-WARNING **: 15:09:57.436: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.701: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.701: Não foi possível localizar a ferramenta de temas no module_path: "adwaita",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.703: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.703: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.703: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.703: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.703: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.704: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.704: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.704: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.704: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.704: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(pcmanfm:520339): Gtk-WARNING **: 15:39:28.704: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:25.153: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9025cfed10' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:25.153: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9025cfed70' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:47:25.453: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9027f383b0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:53:10.507: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fccbf2e90' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 15:57:44.197: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8ff0edf890' of type 'MaiAtkType13b'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:15:10.839: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9007f519b0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:15:10.839: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f9007f51290' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:15:11.160: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f900b3712f0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:16:02.682: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7be47d0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:16:02.682: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7be4230' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:16:02.966: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fe8376f50' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:16:26.959: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd1319a10' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:16:26.959: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd1319830' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:16:27.249: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fe844fe30' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:17:19.636: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd75761d0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:17:19.636: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7576530' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:17:19.943: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fafa29a70' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:18:55.317: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fcfd15d10' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:18:55.318: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd030e3b0' of type 'MaiAtkType139'
-
-(firefox:11662): GLib-GObject-WARNING **: 16:18:55.636: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f8fd7d5fa70' of type 'MaiAtkType139'
+** (xournalpp:1104): WARNING **: 17:08:44.576: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:08:44.595: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:08:44.610: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:08:44.628: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:08:52.964: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:08:55.749: DocumentView::drawStroke empty stroke...
+** Message: 17:11:16.805: Info: autosave document...
+** Message: 17:11:16.805: Autosave renamed from /home/adame/.xournalpp/autosave/1104.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:11:16.940: Autosaving to /home/adame/.xournalpp/autosave/1104.autosave.xopp
+
+** (xournalpp:1104): WARNING **: 17:13:23.465: Input for the same device started twice!
+** Message: 17:14:16.804: Info: autosave document...
+** Message: 17:14:16.817: Autosave renamed from /home/adame/.xournalpp/autosave/1104.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:14:16.878: Autosaving to /home/adame/.xournalpp/autosave/1104.autosave.xopp
+** Message: 17:17:16.805: Info: autosave document...
+** Message: 17:17:16.815: Autosave renamed from /home/adame/.xournalpp/autosave/1104.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:17:16.872: Autosaving to /home/adame/.xournalpp/autosave/1104.autosave.xopp
+** Message: 17:20:16.804: Info: autosave document...
+** Message: 17:20:16.829: Autosave renamed from /home/adame/.xournalpp/autosave/1104.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:20:16.894: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:23:16.805: Info: autosave document...
+** Message: 17:23:16.806: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:23:16.873: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:26:16.804: Info: autosave document...
+** Message: 17:26:16.806: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:26:16.861: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+
+** (xournalpp:1104): WARNING **: 17:28:16.197: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:16.453: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:16.470: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:45.306: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:45.325: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:45.343: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:45.358: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:53.621: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:53.638: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:53.657: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:58.736: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:28:58.752: DocumentView::drawStroke empty stroke...
+
+** (xournalpp:1104): WARNING **: 17:29:12.524: DocumentView::drawStroke empty stroke...
+** Message: 17:29:16.805: Info: autosave document...
+** Message: 17:29:16.864: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:29:16.925: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:32:16.805: Info: autosave document...
+** Message: 17:32:16.899: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:32:16.966: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:35:16.804: Info: autosave document...
+** Message: 17:35:16.810: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:35:16.879: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:38:16.804: Info: autosave document...
+** Message: 17:38:16.826: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:38:16.894: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+[ 08/09/2020 17:38:51.198 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00829500.
+[ 08/09/2020 17:38:51.198 paint_one ERROR ] Failed to bind texture for window 0x01173f5a.
+[ 08/09/2020 17:38:51.198 paint_one ERROR ] Window 0x01173f5a is missing painting data.
+[ 08/09/2020 17:40:22.242 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x0082ac2b.
+[ 08/09/2020 17:40:22.242 paint_one ERROR ] Failed to bind texture for window 0x00c001ef.
+[ 08/09/2020 17:40:22.242 paint_one ERROR ] Window 0x00c001ef is missing painting data.
+** Message: 17:41:16.805: Info: autosave document...
+** Message: 17:41:16.808: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:41:16.873: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:44:16.805: Info: autosave document...
+** Message: 17:44:16.809: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:44:16.868: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:47:16.807: Info: autosave document...
+** Message: 17:47:16.864: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:47:16.917: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:50:16.804: Info: autosave document...
+** Message: 17:50:16.810: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:50:16.870: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:53:16.804: Info: autosave document...
+** Message: 17:53:16.810: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:53:16.884: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:56:16.805: Info: autosave document...
+** Message: 17:56:16.812: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:56:16.880: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 17:59:16.804: Info: autosave document...
+** Message: 17:59:16.879: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 17:59:16.934: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 18:02:16.804: Info: autosave document...
+** Message: 18:02:16.876: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 18:02:16.914: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 18:05:16.804: Info: autosave document...
+** Message: 18:05:16.813: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 18:05:16.867: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 18:08:16.804: Info: autosave document...
+** Message: 18:08:16.811: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 18:08:16.874: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+
+** (xournalpp:1104): WARNING **: 18:08:28.954: Input for the same device started twice!
+[ 08/09/2020 18:09:40.206 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x008446c2.
+[ 08/09/2020 18:09:40.206 paint_one ERROR ] Failed to bind texture for window 0x01124982.
+[ 08/09/2020 18:09:40.206 paint_one ERROR ] Window 0x01124982 is missing painting data.
+** Message: 18:11:16.804: Info: autosave document...
+** Message: 18:11:16.893: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 18:11:16.921: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 18:14:16.812: Info: autosave document...
+** Message: 18:14:16.893: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 18:14:16.954: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 18:17:16.806: Info: autosave document...
+** Message: 18:17:16.813: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 18:17:16.885: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 18:20:16.805: Info: autosave document...
+** Message: 18:20:16.813: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 18:20:16.871: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+** Message: 18:23:16.810: Info: autosave document...
+** Message: 18:23:16.820: Autosave renamed from /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp to /home/adame/.xournalpp/autosave/1104.old.autosave.xopp
+** Message: 18:23:16.891: Autosaving to /home/adame/Documentos/mydocs/Antonia/08-09/.08-09.autosave.xopp
+
+(firefox:530): GLib-GObject-WARNING **: 19:23:55.683: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fd40d094b30' of type 'MaiAtkType139'
+
+(firefox:530): GLib-GObject-WARNING **: 19:55:11.164: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fd3dbe29530' of type 'MaiAtkType139'
