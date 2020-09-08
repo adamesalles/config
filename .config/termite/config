@@ -1,5 +1,8 @@
 [options]
-font = Iosevka Nerd Font 10
+font = Droid Sans Mono Slashed for Powerline 10
+# font = Go Mono for Powerline 10
+# font = Roboto Mono for Powerline 10
+# font = Iosevka Nerd Font 10
 # font = Noto Color Emoji 11
 
 [colors]

@@ -15,13 +15,22 @@ let g:ycm_server_python_interpreter = '/usr/bin/python'
 call vundle#begin()
 
 "Other plugins here
-Plugin 'xuhdev/vim-latex-live-preview'
-
+Plugin 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
+Plugin 'preservim/nerdtree'
+Plugin 'tpope/vim-surround'
+Plugin 'ap/vim-css-color'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
 call vundle#end()            " required
 
 let g:Tex_DefaultTargetFormat='pdf'
 let g:Tex_MultipleCompileFormats='pdf,bibtex,pdf'
 filetype plugin indent on    " required
+
+"Airline conf
+let g:airline_theme='deus'
+let g:airline#extensions#tabline#enabled = 1
+let g:airline_powerline_fonts = 1
 
 "PDF Viewer
 let g:livepreview_previewer = 'zathura'
