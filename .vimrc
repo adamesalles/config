@@ -48,6 +48,18 @@ let g:livepreview_previewer = 'zathura'
 "Update time for live preview (ms)
 autocmd Filetype tex setl updatetime=500
 
+"vimwiki md
+let g:vimwiki_list = [{'path': '~/vimwiki/',
+                      \ 'syntax': 'markdown', 'ext': '.md'}]
+
+set splitbelow splitright
+
+set path+=**
+
+"LaTeX
+map <Leader>c :w! \| !compiler <c-r>%<CR>
+autocmd VimLeave *.tex !texclear %
+
 "These are needed
 set nocompatible
 filetype plugin on
@@ -73,11 +85,13 @@ inoremap <F8> <Esc> :LL<Enter>
 "NERDTREE
 map <C-n> :NERDTreeToggle<CR>
 
+let g:livepreview_engine = 'pdflatex' . '--shell-escape'
+
 "md
 let g:vimwiki_ext2syntax = {'.Rmd': 'markdown', '.rmd': 'markdown','.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown'}
 
 " PEP8
-au BufNewFile,BufRead *.py
+au BufNewFile,BufRead .py
     \ set tabstop=4
     \ set softtabstop=4
     \ set shiftwidth=4
