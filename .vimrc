@@ -15,17 +15,27 @@ let g:ycm_server_python_interpreter = '/usr/bin/python'
 call vundle#begin()
 
 "Other plugins here
+Plugin 'gmarik/Vundle.vim'
 Plugin 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
 Plugin 'preservim/nerdtree'
 Plugin 'tpope/vim-surround'
 Plugin 'ap/vim-css-color'
+Plugin 'vimwiki/vimwiki'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
+Plugin 'ycm-core/YouCompleteMe'  
+Plugin 'vim-syntastic/syntastic'
+Plugin 'kien/ctrlp.vim'
+Plugin 'vim-scripts/indentpython.vim'
 call vundle#end()            " required
 
 let g:Tex_DefaultTargetFormat='pdf'
 let g:Tex_MultipleCompileFormats='pdf,bibtex,pdf'
 filetype plugin indent on    " required
+
+"You complete me 
+let g:ycm_autoclose_preview_window_after_completion=1
+map <leader>g  :YcmCompleter GoToDefinitionElseDeclaration<CR>
 
 "Airline conf
 let g:airline_theme='deus'
@@ -42,6 +52,7 @@ autocmd Filetype tex setl updatetime=500
 set nocompatible
 filetype plugin on
 syntax on
+set wildmenu
 
 "change tab character to 4 spaces
 :set softtabstop=4 tabstop=4 shiftwidth=4 expandtab
@@ -51,8 +62,7 @@ syntax on
 set relativenumber "relative
 
 "Double tap of space bar navigates to insert point denoted by <++>
-inoremap <Space>` <Esc>/<++><Enter>"_c4l
-
+autocmd FileType tex inoremap <Space><Space> <Esc>/<++><Enter>"_c4l
 "Spell check on/off
 map <F12> :set spell spelllang=pt_br <Enter>
 
@@ -60,8 +70,24 @@ map <F12> :set spell spelllang=pt_br <Enter>
 map <F8> <Esc> :LL<Enter>
 inoremap <F8> <Esc> :LL<Enter>
 
+"NERDTREE
+map <C-n> :NERDTreeToggle<CR>
+
+"md
+let g:vimwiki_ext2syntax = {'.Rmd': 'markdown', '.rmd': 'markdown','.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown'}
+
+" PEP8
+au BufNewFile,BufRead *.py
+    \ set tabstop=4
+    \ set softtabstop=4
+    \ set shiftwidth=4
+    \ set textwidth=79
+    \ set expandtab
+    \ set autoindent
+    \ set fileformat=unix
+
 "list commands
-inoremap ;lb \begin{itemize}<Enter>\item <++><Enter>\end{itemize}<Enter><++><Esc>gg/<++><Enter>"_c4l
+inoremap ;lb \begin{itemize}<Enter>\item <Enter>\end{itemize}<Enter><++><Esc>gg/<++><Enter>"_c4l
 inoremap ;le \begin{enumerate}<Enter>\item <++><Enter>\end{enumerate}<Enter><++><Esc>gg/<++><Enter>"_c4l
 inoremap ;ls \begin{itemize}[label={}]<Enter>\item <++><Enter>\end{itemize}<Enter><++><Esc>gg/<++><Enter>"_c4l
 inoremap ;li <Enter>\item
