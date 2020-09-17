@@ -9,8 +9,9 @@ usermodmap=$HOME/.Xmodmap
 sysresources=/etc/X11/xinit/.Xresources
 sysmodmap=/etc/X11/xinit/.Xmodmap
 
-DEFAULT_SESSION=bspwm-session
+DEFAULT_SESSION=dwm-session
 
+export _JAVA_AWT_WM_NONREPARENTING=1
 # merge in defaults and keymaps
 
 if [ -f $sysresources ]; then
@@ -64,3 +65,4 @@ get_session(){
 }
 
 exec $(get_session)
+

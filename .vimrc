@@ -51,13 +51,14 @@ autocmd Filetype tex setl updatetime=500
 "vimwiki md
 let g:vimwiki_list = [{'path': '~/vimwiki/',
                       \ 'syntax': 'markdown', 'ext': '.md'}]
+set clipboard=unnamedplus
 
 set splitbelow splitright
 
 set path+=**
 
 "LaTeX
-map <Leader>c :w! \| !compiler <c-r>%<CR>
+map <Leader>c :w! \| !sh compiler <c-r>%<CR>
 autocmd VimLeave *.tex !texclear %
 
 "These are needed
@@ -74,7 +75,7 @@ set wildmenu
 set relativenumber "relative
 
 "Double tap of space bar navigates to insert point denoted by <++>
-autocmd FileType tex inoremap <Space><Space> <Esc>/<++><Enter>"_c4l
+map <Leader><Space> /<++><Enter>"_c4l
 "Spell check on/off
 map <F12> :set spell spelllang=pt_br <Enter>
 
