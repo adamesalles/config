@@ -1,70 +1,82 @@
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.982: Unable to locate theme engine in module_path: "adwaita",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.948: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.983: Unable to locate theme engine in module_path: "adwaita",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.948: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.986: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.948: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.986: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.949: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.986: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.949: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.987: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.949: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.987: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.949: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.987: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.950: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.987: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.950: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.987: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.950: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.987: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:43.950: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.988: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.381: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:38.988: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.381: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.930: Unable to locate theme engine in module_path: "adwaita",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.381: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.930: Unable to locate theme engine in module_path: "adwaita",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.382: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.932: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.382: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.932: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.382: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.932: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.382: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.932: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.382: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.932: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.382: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.932: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.382: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.932: Unable to locate theme engine in module_path: "murrine",
+(nitrogen:997054): Gtk-WARNING **: 09:13:44.383: Unable to locate theme engine in module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.933: Unable to locate theme engine in module_path: "murrine",
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.905: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.933: Unable to locate theme engine in module_path: "murrine",
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.905: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.933: Unable to locate theme engine in module_path: "murrine",
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.906: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
 
-(nitrogen:547696): Gtk-WARNING **: 16:58:39.933: Unable to locate theme engine in module_path: "murrine",
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.907: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
 
-(firefox:547748): GLib-GObject-WARNING **: 16:59:07.496: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f5d575ddad0' of type 'MaiAtkType21'
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.908: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.908: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.908: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.909: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.909: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.909: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
+
+(pcmanfm:997588): Gtk-WARNING **: 09:14:47.910: Não foi possível localizar a ferramenta de temas no module_path: "murrine",
 X connection to :0 broken (explicit kill or server shutdown).
-Gdk-Message: 17:00:20.952: /usr/lib/firefox/firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+Gdk-Message: 09:18:42.436: termite: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
 
-Gdk-Message: 17:00:20.953: /usr/lib/firefox/firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+Gdk-Message: 09:18:42.436: /usr/lib/firefox/firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
 
-Gdk-Message: 17:00:20.953: /usr/lib/firefox/firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+Gdk-Message: 09:18:42.436: /usr/lib/firefox/firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
 
-Gdk-Message: 17:00:20.952: /usr/lib/firefox/firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+Gdk-Message: 09:18:42.441: /usr/lib/firefox/firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
 
-Gdk-Message: 17:00:20.954: firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+Gdk-Message: 09:18:42.441: /usr/lib/firefox/firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
 
-Gdk-Message: 17:00:20.954: termite: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+Gdk-Message: 09:18:42.445: /usr/lib/firefox/firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
 
-Exiting due to channel error.
-Exiting due to channel error.
-Exiting due to channel error.
+Gdk-Message: 09:18:42.483: firefox: Fatal IO error 11 (Recurso temporariamente indisponível) on X server :0.
+
+Invalid MIT-MAGIC-COOKIE-1 key
