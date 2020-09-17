@@ -3,7 +3,7 @@
 # Show wifi 📶 and percent strength or 📡 if none.
 # Show 🌐 if connected to ethernet or ❎ if none.
 
-case $BUTTON in
+case $BLOCK_BUTTON in
 	1) termite -e nmtui; pkill -RTMIN+4 dwmblocks ;;
 	3) notify-send "🌐 Internet module" "\- Click to connect
 📡: no wifi connection

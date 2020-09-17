@@ -2,7 +2,7 @@
 
 # Prints the current "" volume or 🔇 if muted.
 
-case $BUTTON in
+case $BLOCK_BUTTON in
 	1) setsid -f termite -e pulsemixer ;;
 	2) pamixer -t ;;
 	4) pamixer --allow-boost -i 1 ;;
