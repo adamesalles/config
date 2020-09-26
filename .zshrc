@@ -22,6 +22,10 @@
 # Path to your oh-my-zsh installation.
 export ZSH="/home/adame/.oh-my-zsh"
 export PATH=$PATH:~/.local/bin/
+export JAVA_OPTS='-XX:+IgnoreUnrecognizedVMOptions --add-modules java.se.ee'
+export JAVA_HOME='/usr/lib/jvm/java-8-openjdk'
+export ANDROID_SDK_ROOT='/opt/android-sdk'
+export PATH="$PATH:/opt/android-sdk/tools/bin/"
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
@@ -143,6 +147,7 @@ ex ()
 }
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
 
 # figlet -f 3d 'Adame' | lolcat
 alias config='/usr/bin/git --git-dir=/home/adame/.cfg/ --work-tree=/home/adame'
