@@ -1,6 +1,6 @@
 !/bin/zsh
 
 export EDITOR="vim"
+export BROWSER="google-chrome-stable"
 export TERMINAL="termite"
-export BROWSER="firefox"
 export READER="zathura"

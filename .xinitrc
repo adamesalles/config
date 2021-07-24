@@ -9,7 +9,7 @@ usermodmap=$HOME/.Xmodmap
 sysresources=/etc/X11/xinit/.Xresources
 sysmodmap=/etc/X11/xinit/.Xmodmap
 
-DEFAULT_SESSION=gnome-session
+DEFAULT_SESSION=dwm-session
 
 export _JAVA_AWT_WM_NONREPARENTING=1
 # merge in defaults and keymaps
